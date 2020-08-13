@@ -1,3 +1,7 @@
+//
+// Created by sliberman on 12/08/20.
+//
+
 #include <iostream>
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
