@@ -26,5 +26,5 @@ $ cmake --build .
 
 ## Instructions to run tests
 ```bash
-(./bin) $ ./Tests
+(./build) $ ./Tests
 ```
