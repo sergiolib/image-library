@@ -20,8 +20,8 @@ Image library for an interview I had with Apple. It is written in C++ and implem
 ## Compilation in Linux
 ```bash
 $ mkdir build && cd build
-$ cmake ..
-$ cmake --build .
+(./build) $ cmake ..
+(./build) $ cmake --build .
 ```
 
 ## Instructions to run tests
